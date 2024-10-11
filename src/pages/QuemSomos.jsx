@@ -25,13 +25,13 @@ export default function QuemSomos() {
 										</p>
 										<div className='flex lg:flex-1 justify-center lg:justify-start mt-10 text-rose-700'>
 											<a
-												href='https://www.instagram.com'
+												href='https://www.instagram.com/renatokfouri/'
 												target='_blank'
 												rel='noopener noreferrer'
 												className='mx-2'>
 												<Icon icon='hugeicons:instagram' height='24px' />
 											</a>
-											<a
+											{/* <a
 												href='https://www.youtube.com'
 												target='_blank'
 												rel='noopener noreferrer'
@@ -44,7 +44,7 @@ export default function QuemSomos() {
 												rel='noopener noreferrer'
 												className='mx-2'>
 												<Icon icon='hugeicons:spotify' height='24px' />
-											</a>
+											</a> */}
 										</div>
 									</div>
 								</div>
@@ -73,13 +73,13 @@ export default function QuemSomos() {
 										</p>
 										<div className='flex lg:flex-1 justify-center lg:justify-start mt-10 text-rose-700'>
 											<a
-												href='https://www.instagram.com'
+												href='https://www.instagram.com/rosanarichtmann/'
 												target='_blank'
 												rel='noopener noreferrer'
 												className='mx-2'>
 												<Icon icon='hugeicons:instagram' height='24px' />
 											</a>
-											<a
+											{/* <a
 												href='https://www.youtube.com'
 												target='_blank'
 												rel='noopener noreferrer'
@@ -92,7 +92,7 @@ export default function QuemSomos() {
 												rel='noopener noreferrer'
 												className='mx-2'>
 												<Icon icon='hugeicons:spotify' height='24px' />
-											</a>
+											</a> */}
 										</div>
 									</div>
 								</div>

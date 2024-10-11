@@ -30,21 +30,21 @@ export default function Footer() {
 					</div>
 					<div className='flex lg:flex-1 justify-center lg:justify-end'>
 						<a
-							href='https://www.instagram.com'
+							href='https://www.instagram.com/r3koficial/'
 							target='_blank'
 							rel='noopener noreferrer'
 							className='mx-2'>
 							<Icon icon='hugeicons:instagram' height='24px' />
 						</a>
 						<a
-							href='https://www.youtube.com'
+							href='https://www.youtube.com/@r3koficial'
 							target='_blank'
 							rel='noopener noreferrer'
 							className='mx-2'>
 							<Icon icon='hugeicons:youtube' height='24px' />
 						</a>
 						<a
-							href='https://www.spotify.com'
+							href='https://open.spotify.com/episode/4MUAoFe4k056bO7WQPDp5k?si=-Cgyt-M9SL-HTAKZcBvw8A'
 							target='_blank'
 							rel='noopener noreferrer'
 							className='mx-2'>

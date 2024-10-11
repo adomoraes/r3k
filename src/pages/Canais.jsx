@@ -16,7 +16,9 @@ export default function Canais() {
 									<div className='mr-3'>
 										<Icon icon='hugeicons:instagram' height='36px' />
 									</div>
-									<a className='text-xl' href='#'>
+									<a
+										className='text-xl'
+										href='https://www.instagram.com/r3koficial/'>
 										@r3koficial
 									</a>
 								</div>
@@ -24,7 +26,9 @@ export default function Canais() {
 									<div className='mr-3'>
 										<Icon icon='hugeicons:youtube' height='36px' />
 									</div>
-									<a className='text-xl' href='#'>
+									<a
+										className='text-xl'
+										href='https://www.youtube.com/@r3koficial'>
 										@r3koficial
 									</a>
 								</div>
@@ -32,7 +36,9 @@ export default function Canais() {
 									<div className='mr-3'>
 										<Icon icon='hugeicons:spotify' height='36px' />
 									</div>
-									<a className='text-xl' href='#'>
+									<a
+										className='text-xl'
+										href='https://open.spotify.com/episode/4MUAoFe4k056bO7WQPDp5k?si=-Cgyt-M9SL-HTAKZcBvw8A'>
 										R3K Sua Saúde Nossa Especialidade
 									</a>
 								</div>
