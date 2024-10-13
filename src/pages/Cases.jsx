@@ -73,19 +73,19 @@ export default function Cases() {
 							<div className='container mx-auto py-20'>
 								<div className='flex flex-wrap justify-around'>
 									<CardPlayer
-										title='Elisa Veeck'
-										imgSrc='./assets/CardElisaVeeck.png'
-										altText='CardElisaVeeck'
-									/>
-									<CardPlayer
 										title='Mariana Ferrao'
 										imgSrc='./assets/CardMarianaFerrao.png'
 										altText='CardMarianaFerrao'
 									/>
 									<CardPlayer
-										title='Natalia Ariede'
-										imgSrc='./assets/CardNataliaAriede.png'
-										altText='CardNataliaAriede'
+										title='Maju Coutinho'
+										imgSrc='./assets/CardMajuCoutinho.png'
+										altText='CardMajuCoutinho'
+									/>
+									<CardPlayer
+										title='Casagrande'
+										imgSrc='./assets/CardCasagrande.png'
+										altText='CardCasagrande'
 									/>
 								</div>
 							</div>
