@@ -2,7 +2,7 @@
 import React from "react"
 import { AudioPlayer } from "react-audio-play"
 
-const CardPlayer = ({ title, imgSrc, altText }) => {
+const CardPlayer = ({ title, imgSrc, audioSrc, altText }) => {
 	return (
 		<div className='bg-[#e3e3e3] p-8 rounded-2xl shadow-md w-80 mt-5'>
 			{/* Album Cover */}
@@ -91,7 +91,7 @@ const CardPlayer = ({ title, imgSrc, altText }) => {
 					</svg>
 				</button> */}
 				<AudioPlayer
-					src='./assets/audio.mp3'
+					src={`./assets/${audioSrc}`}
 					color='#fd0b45'
 					sliderColor='#fd0b45'
 					style={{

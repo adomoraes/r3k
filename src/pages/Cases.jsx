@@ -1,6 +1,5 @@
 import AnimatedPage from "../components/AnimatedPage"
 import CardPlayer from "../CardPlayer"
-import Footer from "../Footer"
 
 export default function Cases() {
 	return (
@@ -75,16 +74,19 @@ export default function Cases() {
 									<CardPlayer
 										title='Mariana Ferrao'
 										imgSrc='./assets/CardMarianaFerrao.png'
+										audioSrc={"./assets/MarianaFerrao.mp3"}
 										altText='CardMarianaFerrao'
 									/>
 									<CardPlayer
 										title='Maju Coutinho'
 										imgSrc='./assets/CardMajuCoutinho.png'
+										audioSrc={"./assets/MajuCoutinho.mp3"}
 										altText='CardMajuCoutinho'
 									/>
 									<CardPlayer
 										title='Casagrande'
 										imgSrc='./assets/CardCasagrande.png'
+										audioSrc={"./assets/Casagrande.mp3"}
 										altText='CardCasagrande'
 									/>
 								</div>
