@@ -91,7 +91,7 @@ const CardPlayer = ({ title, imgSrc, audioSrc, altText }) => {
 					</svg>
 				</button> */}
 				<AudioPlayer
-					src={`./assets/${audioSrc}`}
+					src={`${audioSrc}`}
 					color='#fd0b45'
 					sliderColor='#fd0b45'
 					style={{
