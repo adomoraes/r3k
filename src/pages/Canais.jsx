@@ -18,6 +18,8 @@ export default function Canais() {
 									</div>
 									<a
 										className='text-xl'
+										target='_blank'
+										rel='noopener noreferrer'
 										href='https://www.instagram.com/r3koficial/'>
 										@r3koficial
 									</a>
@@ -28,6 +30,8 @@ export default function Canais() {
 									</div>
 									<a
 										className='text-xl'
+										target='_blank'
+										rel='noopener noreferrer'
 										href='https://www.youtube.com/@r3koficial'>
 										@r3koficial
 									</a>
@@ -38,6 +42,8 @@ export default function Canais() {
 									</div>
 									<a
 										className='text-xl'
+										target='_blank'
+										rel='noopener noreferrer'
 										href='https://open.spotify.com/episode/4MUAoFe4k056bO7WQPDp5k?si=-Cgyt-M9SL-HTAKZcBvw8A'>
 										R3K Sua Saúde Nossa Especialidade
 									</a>
